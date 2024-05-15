@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aqila
-- 👀 I’m master student in computer science
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on Github
+- 👀 I’m a master's student in computer science
+- 🌱 I’m passionate about data mining, Machine learning in particular NLP.
+- 💞️ I'm always open to collaborating on exciting projects related to data mining and NLP. Whether it's exploring new research ideas or contributing to open-source initiatives, feel free to reach out if you're interested in working together!
 - 📫 you can reach me via aqela.af@gmail.com
 
 <!---
