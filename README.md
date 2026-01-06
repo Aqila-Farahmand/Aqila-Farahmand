@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ### 🧠 Turning Data into Intelligence | 🌍 5 Countries | 📚 Q1 Published Researcher
+  ### Turning data into Intelligence | 🌍 5 Countries | 📚 Q1 Published Researcher
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqila-farahmand/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aqila-Farahmand)
@@ -144,13 +144,13 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Aqila-Farahmand&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
+  <img src="https://streak-stats.demolab.com/?user=Aqila-Farahmand&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" alt="GitHub Streak" />
   
 </div>
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/Aqila-Farahmand/Aqila-Farahmand/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/Aqila-Farahmand/Aqila-Farahmand/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
 </div>
 
@@ -215,7 +215,7 @@ class AqilaFarahmand:
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Aqila-Farahmand&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+  <img src="https://github-profile-trophy.vercel.app/?username=Aqila-Farahmand&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophy" />
   
 </div>
 
