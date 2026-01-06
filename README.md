@@ -123,7 +123,7 @@
 - 📱 Fully responsive
 - ⚡ Fast & optimized
 
-[![Website](https://img.shields.io/badge/Website-FF6B9D?style=flat-square)](https://github.com/Aqila-Farahmand)
+[![Website](https://img.shields.io/badge/Website-FF6B9D?style=flat-square)](https://aqila-farahmand.github.io/)
 
 **Stack:** `HTML` `CSS` `JavaScript`
 
