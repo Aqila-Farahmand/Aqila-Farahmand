@@ -201,26 +201,6 @@ class AqilaFarahmand:
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aqila-Farahmand&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF&area=true)
-  
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Aqila-Farahmand&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophy" />
-  
-</div>
-
----
-
 ## 📝 Latest Blog Posts
 
 <div align="center">
