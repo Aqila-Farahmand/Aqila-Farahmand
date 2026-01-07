@@ -2,11 +2,9 @@
   <h2>Hey there! I'm Aqila 👋</h2>
 </div>
 
----
-
 <div align="center">
   
-  ### Turning data into Intelligence | 🌍 5 Countries | 📚 Q1 Published Researcher
+  ### NLP, ML and AI | 🌍 5 Countries | 📚 Researcher
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqila-farahmand/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aqila-Farahmand)
@@ -16,30 +14,18 @@
 
 ---
 
-## 🎯 Quick Facts
-
-<div align="center">
-  
-| 🎓 **Education** | 📍 **Location** | 🌐 **Languages** | 📊 **Experience** |
-|:---:|:---:|:---:|:---:|
-| University of Camerino | Luxembourg | Farsi<br> English<br> Italian<br> French (learning) | ~2 Years<br>1 Q1 Publication |
-
-</div>
-
----
-
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 <div align="center">
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 ![LLM](https://img.shields.io/badge/LLM%20Fine--tuning-FF6B9D?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B9D?style=for-the-badge&logo=vectorworks&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B9D?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6B9D?style=for-the-badge&logo=databricks&logoColor=white)
 
-### 💻 Languages
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -66,7 +52,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 MedicoAI: Offline Chatbot
+### 🏥 MedicoAI: Offline Chat App
 
 **Cross-platform SLM for mobile devices**
 
@@ -156,36 +142,6 @@
 
 ---
 
-## 🎨 What I'm Working On
-
-```python
-class AqilaFarahmand:
-    def __init__(self):
-        self.current_focus = "LLM Fine-tuning & RAG Systems"
-        self.research_area = "Medical AI Applications"
-        self.location = "Luxembourg"
-        self.languages = ["Farsi", "English", "Italian", "French (learning)"]
-
-    def current_projects(self):
-        return [
-            "Offline SLM deployment on mobile devices",
-            "RAG-enhanced medical chatbots",
-            "NLP model optimization"
-        ]
-
-    def interests(self):
-        return {
-            "outdoor": ["Hiking 🏔️", "Cycling 🚴", "Swimming 🏊"],
-            "indoor": ["Cooking 🍳", "Sauna 🧖"],
-            "sports": ["Beach Volleyball 🏐"]
-        }
-
-    def say_hello(self):
-        return "Always open to collaborate on exciting ML/AI projects! 🚀"
-```
-
----
-
 ## 🌟 Fun Facts About Me
 
 <div align="center">
@@ -194,7 +150,6 @@ class AqilaFarahmand:
 | :-: | :---------------------------------------------------------------------------- |
 | 🏔️  | **Hiked Preikestolen** - Conquered one of Norway's most iconic trails         |
 | 🧊  | **Swimming in Oslo fjord** - Tried ice bathing in Norwegian waters!           |
-| 📚  | **Q1 Published** - Research in Journal of Medical Systems                     |
 | 🌍  | **Multilingual** - 4 languages (3 fluent + 1 learning)                        |
 
 </div>
@@ -207,7 +162,7 @@ class AqilaFarahmand:
   
   <!-- BLOG-POST-LIST:START -->
   - 🗺️ **My experiences of living in different countries** - Coming Soon
-  - 🤖 **Exploring LLMs use cases in medical domain** - Coming Soon
+  - 🤖 **Exploring LLMs and SLMs use cases in medical domain** - Coming Soon
   <!-- BLOG-POST-LIST:END -->
   
 </div>
