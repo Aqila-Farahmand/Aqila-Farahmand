@@ -123,13 +123,6 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aqila-Farahmand&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqila-Farahmand&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D"/>
-
-</div>
-
-<div align="center">
-  
   <img src="https://streak-stats.demolab.com/?user=Aqila-Farahmand&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" alt="GitHub Streak" />
   
 </div>
@@ -148,8 +141,8 @@
 
 | 🗺️  | **Lived in 5 countries** - International experience across different cultures |
 | :-: | :---------------------------------------------------------------------------- |
-| 🏔️  | **Hiked Preikestolen** - Conquered one of Norway's most iconic trails         |
-| 🧊  | **Swimming in Oslo fjord** - Tried ice bathing in Norwegian waters!           |
+| 🏔️  | **Hiked Preikestolen** - Hiked one of Norway's most iconic trails             |
+| 🧊  | **Swimming in Norwegian fjords** - Tried ice bathing in Norwegian waters!     |
 | 🌍  | **Multilingual** - 4 languages (3 fluent + 1 learning)                        |
 
 </div>
@@ -161,8 +154,8 @@
 <div align="center">
   
   <!-- BLOG-POST-LIST:START -->
-  - 🗺️ **My experiences of living in different countries** - Coming Soon
-  - 🤖 **Exploring LLMs and SLMs use cases in medical domain** - Coming Soon
+  -    **My experiences of living in different countries** - Coming Soon
+  -    **Exploring LLMs and SLMs use cases in medical domain** - Coming Soon
   <!-- BLOG-POST-LIST:END -->
   
 </div>
